@@ -69,4 +69,4 @@ Proyek ini dibuat untuk tujuan pembelajaran, bebas digunakan dan dimodifikasi.
 
 ## 🙋 Kontak
 
-Dibuat oleh **[Nama Kamu]** — jangan ragu buka issue atau pull request kalau ada saran perbaikan.
+Dibuat oleh **Farrel Radyandry w/Claude AI** — jangan ragu buka issue atau pull request kalau ada saran perbaikan.
